@@ -12,4 +12,4 @@ time.sleep(5)
 driver.find_element(By.XPATH, "//input[@id='password']").send_keys("secret_sauce")
 time.sleep(5)
 
-#test aftab sb 
+#test aftab sb
